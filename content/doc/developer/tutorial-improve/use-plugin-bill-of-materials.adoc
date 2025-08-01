@@ -30,8 +30,8 @@ For example, the addition might look like:
   <dependencies>
     <dependency>
       <groupId>io.jenkins.tools.bom</groupId>
-      <artifactId>bom-2.479.x</artifactId>
-      <version>5043.v855ff4819a_0f</version>
+      <artifactId>bom-2.492.x</artifactId>
+      <version>5085.v05cc65a_936d3</version>
       <scope>import</scope>
       <type>pom</type>
     </dependency>
