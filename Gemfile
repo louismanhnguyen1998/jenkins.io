@@ -15,7 +15,7 @@ gem 'iconv'
 # Support for various template engines we use
 gem 'haml', '~> 5.2.0'
 gem 'liquid', '~> 5.5.0'
-gem 'kramdown', '~> 2.5.0'
+gem 'kramdown', '~> 2.5.2'
 
 # Gems necessary for running scripts/fetch-external-resources
 group :fetcher do
